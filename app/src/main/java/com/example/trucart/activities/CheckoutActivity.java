@@ -44,7 +44,7 @@ public class CheckoutActivity extends AppCompatActivity {
     CartAdapter adapter;
     ArrayList<Product> products;
     double totalPrice = 0;
-    final int tax = 11;
+    final int tax = 0;
     ProgressDialog progressDialog;
     Cart cart;
 

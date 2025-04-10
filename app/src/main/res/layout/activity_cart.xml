@@ -72,7 +72,7 @@
         android:id="@+id/continueBtn"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:background="@color/orange"
+        android:backgroundTint="#D9DFC6"
         android:text="Continue"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.trucart" />
+                  <option name="mobileSdkAppId" value="1:457403751697:android:b6dac21b4d60a32df040b0" />
+                  <option name="projectId" value="trucart-fd4d3" />
+                  <option name="projectNumber" value="457403751697" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

@@ -11,4 +11,6 @@
     <color name="backgroundColor">#E8E8E8</color>
 
     <color name="orange">#FF5722</color>
+    <color name="light_green">#D9DFC6</color>
+    <color name="circle_bg">#FFF2C2</color>
 </resources>

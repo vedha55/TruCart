@@ -9,7 +9,7 @@
         android:layout_width="54dp"
         android:layout_height="54dp"
         android:layout_marginTop="8dp"
-        android:background="@color/purple_500"
+        android:background="@color/circle_bg"
         android:padding="8dp"
         android:scaleType="centerCrop"
         android:src="@drawable/placeholder"
